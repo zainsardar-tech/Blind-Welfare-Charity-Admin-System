@@ -1,8 +1,8 @@
-# 👤 Official User Manual
+# Official User Manual
 
 Welcome to the **Pakistan-Based Blind Welfare Administration System**. This application is engineered exclusively for local, private NGO tracking and data auditing.
 
-## 🔐 1. Role-Based Login
+## 1. Role-Based Login
 
 Upon launching the application executable, you must authenticate based on your designated scope mapping:
 - **Super Admins**: Utilize the Super Admin credentials (e.g., `admin123`) to access full system control.
@@ -10,7 +10,7 @@ Upon launching the application executable, you must authenticate based on your d
 
 ---
 
-## 🧭 2. Core Workflows
+## 2. Core Workflows
 
 ### The CNS (Communication & Notification System)
 This module eliminates the need for SMS or an internet connection.
