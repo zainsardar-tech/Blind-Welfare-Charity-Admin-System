@@ -16,7 +16,7 @@ Follow these steps to get the system running on any fresh machine.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-ngo-organization/charity-admin.git
+   git clone https://github.com/zainsardar-tech/charity-admin.git
    cd charity-admin
    ```
 
