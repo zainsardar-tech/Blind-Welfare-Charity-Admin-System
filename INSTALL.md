@@ -16,8 +16,8 @@ Follow these steps to get the system running on any fresh machine.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/zainsardar-tech/charity-admin.git
-   cd charity-admin
+   git clone https://github.com/zainsardar-tech/Blind-Welfare-Charity-Admin-System.git
+   cd Blind-Welfare-Charity-Admin-System
    ```
 
 2. **Initialize Flutter Engine**
