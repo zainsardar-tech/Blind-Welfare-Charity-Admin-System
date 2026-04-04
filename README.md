@@ -46,3 +46,5 @@ The entire interface operates exclusively under a rigid `Role-Based Check`:
 ---
 
 *This application prioritizes absolute data ownership, 0% cloud dependency, and seamless local performance for secure charity oversight.*
+
+I also clone this in typescript and achieve same functionality in future. 
